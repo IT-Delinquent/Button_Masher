@@ -1,3 +1,5 @@
+//Testing update
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -119,7 +121,7 @@ namespace ButtonMasher
             //checking which key was pressed
             if (e.Key == Key.A)
             {
-                UpdatePlayerOneScore(); 
+                UpdatePlayerOneScore();
             }else if(e.Key == Key.L)
             {
                 UpdatePlayerTwoScore();
@@ -140,8 +142,8 @@ namespace ButtonMasher
             {
                 //player two has won
                 WonScreen("2");
-            }            
-        }        
+            }
+        }
 
         //PLAY AGAIN
         private void PlayAgain(object sender, RoutedEventArgs e)
