@@ -9,5 +9,4 @@ This is how the game is currently played:
 - ![#3498db](https://placehold.it/15/3498db/000000?text=+) `Player Two (Right) has to mash the L key`
 
 ![alt text](https://github.com/IT-Delinquent/Button_Masher/blob/master/Button_Masher_Gif.gif)
-
 There is still some functionality that could be added to this but I just haven't got round to it yet. 
