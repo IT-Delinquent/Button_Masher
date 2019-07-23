@@ -134,7 +134,6 @@ namespace ButtonMasher
             {
                 //player one has won
                 WonScreen("1");
-
             }
             else if (ProgressBar2.Value > 99)
             {
