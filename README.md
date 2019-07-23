@@ -1,4 +1,5 @@
 # Button_Masher
+[![CodeFactor](https://www.codefactor.io/repository/github/it-delinquent/button_masher/badge)](https://www.codefactor.io/repository/github/it-delinquent/button_masher)
 ### A simple game where two people race to press their respective keys 100 times
 
 This is a simple game where two people both have to "mash" their respective buttons as fast as possible ⚡ 
